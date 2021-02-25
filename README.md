@@ -1,4 +1,4 @@
-# maskrcnn_openvino
+# MaskRCNN OpenVINO benchmarks
 Dockerized inference of OpenVINO usng MaskRCNN
 
 
