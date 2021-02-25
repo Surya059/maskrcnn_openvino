@@ -1,1 +1,7 @@
 mask_rcnn_R_50_FPN_1x.onnx
+mask_rcnn_R_50_FPN_1x.bin
+mask_rcnn_R_50_FPN_1x.mapping
+mask_rcnn_R_50_FPN_1x.xml
+mask_rcnn_balloon.h5
+balloon_dataset.zip
+balloon
