@@ -1,6 +1,9 @@
 # MaskRCNN OpenVINO benchmarks
 Dockerized inference of OpenVINO usng MaskRCNN
 
+## Prerequisites
+Ubuntu 18.04.4 LTS 
+[Docker]((https://docs.docker.com/engine/install/ubuntu/) version 19.03.12
 
 ## Converting MaskRCNN ONNX model to OpenVINO
 Refer [this](https://docs.openvinotoolkit.org/latest/openvino_docs_MO_DG_prepare_model_convert_model_onnx_specific_Convert_Mask_RCNN.html) link to download the onnx model
