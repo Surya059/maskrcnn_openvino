@@ -11,7 +11,7 @@ cd docker/maskrcnn_inference
 sh build.sh
 sh run.sh # This starts a jupyter notebook 
 ```
-Open [notebook](http://localhost:8888/tree) in browser and type in token
+Open [notebook](http://localhost:8888/tree) in browser and type in token <br />
 Open /workspace_old/MaskRCNN/samples/demo.ipynb
 
 ## Convert MaskRCNN Keras to ONNX
