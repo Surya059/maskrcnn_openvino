@@ -1,1 +1,2 @@
-docker run -it -v $PWD/../..:/workspace surya/maskrcnn_inference python3 create_tf_model.py
+docker run -it -p 8888:8888 -p 6006:6006 -v $PWD/../..:/workspace surya/maskrcnn_inference
+

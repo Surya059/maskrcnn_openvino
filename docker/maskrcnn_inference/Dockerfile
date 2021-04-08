@@ -17,3 +17,5 @@ RUN apt-get install -y python3-tk
 RUN rm -rf /workspace/coco
 RUN mv /workspace /workspace_old
 WORKDIR /workspace
+ENTRYPOINT ["jupyter", "notebook", "--ip", "0.0.0.0", "--allow-root", "/"]
+
